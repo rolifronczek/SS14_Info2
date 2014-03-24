@@ -13,6 +13,7 @@ int main(int argc, const char * argv[])
 
     // insert code here...
     std::cout << "Hello, GitHub!\n";
+    std::cout << "Test";
     return 0;
 }
 
